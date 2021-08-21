@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Subnetting-Solver in C++
 
-You can use the [editor on GitHub](https://github.com/Nilusche/Subnetting-Solver-VLSM-C-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a simple Subnettingquestions-Solver implemented in C++.
+(Will get Updates).
 
-### Markdown
+Currently it can support:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Converting IP version 4 Adresses to IPV6 Adresses
+- Determination of the Subnet of given IPV4 Address
+- VLSM Subnetting Questions:
+      
+      - Generate VLSM subnetting szenarios (variable hosts and addresses or custom ones)
+      - Solve VLSM Subnetting Szenerios  (customs ones and generated ones)
+       
 
-```markdown
-Syntax highlighted code block
+Can you use this freely? 
+Yes feel free to play around with the code. Drop me a line if you find it useful.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+![alt text](https://github.com/Nilusche/Subnetting-Solver/blob/master/VLSM.png?raw=true)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---------------------------------------------------------------------------------------
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nilusche/Subnetting-Solver-VLSM-C-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![alt text](https://github.com/Nilusche/Subnetting-Solver/blob/master/VLSM2.png?raw=true)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---------------------------------------------------------------------------------------
+
+
+![alt text](https://github.com/Nilusche/Subnetting-Solver/blob/master/IPV6.png?raw=true)
+
+
+---------------------------------------------------------------------------------------
+
+
