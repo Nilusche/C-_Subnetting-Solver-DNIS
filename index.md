@@ -20,7 +20,7 @@ Yes feel free to play around with the code. Drop me a line if you find it useful
 
 
 
-
+Thanks to https://github.com/friedmud for the Table-template!
 ![alt text](https://github.com/Nilusche/Subnetting-Solver/blob/master/VLSM.png?raw=true)
 
 
